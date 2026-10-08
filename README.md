@@ -7,7 +7,7 @@ Junior QA Engineer | Manual Testing | API Testing | Learning Test Automation
 I'm an aspiring QA Engineer with a strong interest in software quality and testing.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [shrutisharma6977@gmail.com](mailto:shrutisharma6977@gmail.com)
+* ✉️  You can contact me at [sshrutis551@gmail.com](mailto:sshrutis551@gmail.com)
 * 🧠  I'm currently learning Manual Testing - API Testing using Postman - Test Automation using Cypress
 * 👥  I'm looking to collaborate on QA Automation Projects, Test Case Design, API Testing, Open Source Testing Projects, and AI Testing Initiatives
 
